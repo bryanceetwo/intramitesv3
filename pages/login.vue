@@ -275,7 +275,7 @@ export default {
         .then((res) => {
           console.log("res", res);
           if (res.data.alert == "success") {
-            this.$router.push("/dashbooard");
+            this.$router.push("/dashboard");
           }
         })
         .catch((error) => {
