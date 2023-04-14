@@ -1,5 +1,5 @@
 <template>
     <div>
-        holaaaa
+        Dashboard aquí
     </div>
 </template>
